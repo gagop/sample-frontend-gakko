@@ -1,1 +1,1 @@
-# sample-frontend-gakko
+# GAKKO - frontend - sample app
